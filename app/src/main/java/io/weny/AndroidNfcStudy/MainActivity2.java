@@ -26,6 +26,9 @@ import com.google.common.primitives.Bytes;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 
+/**
+ * RTD_URI读DEMO
+ */
 public class MainActivity2 extends AppCompatActivity {
 
     private TextView mTitle, mPayload;

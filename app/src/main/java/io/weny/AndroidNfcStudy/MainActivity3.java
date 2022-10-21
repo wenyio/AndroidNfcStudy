@@ -18,6 +18,9 @@ import android.widget.Toast;
 
 import java.util.Arrays;
 
+/**
+ * Mifare读写DEMO
+ */
 public class MainActivity3 extends AppCompatActivity {
 
     private Context mContext;

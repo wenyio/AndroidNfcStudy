@@ -28,6 +28,9 @@ import android.widget.Toast;
 import java.io.IOException;
 import java.util.Arrays;
 
+/**
+ * RTD_URI写DEMO
+ */
 public class MainActivity4 extends AppCompatActivity {
 
     private Context mContext;

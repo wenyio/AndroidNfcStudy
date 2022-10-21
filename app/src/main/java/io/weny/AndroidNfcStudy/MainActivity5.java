@@ -36,6 +36,9 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 
+/**
+ * RTD_URI读写DEMO
+ */
 public class MainActivity5 extends AppCompatActivity {
 
     private static int flag = 0; // 1 读 2 写

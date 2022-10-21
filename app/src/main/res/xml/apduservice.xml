@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<host-apdu-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/app_name"
+    android:requireDeviceUnlock="false"> <!-- HCE 服务是否可以在锁定屏幕上运行 -->
+    <aid-group
+        android:category="other"
+        android:description="@string/app_name">
+<!--        <aid-filter android:name="F0010203040506" />-->
+<!--        <aid-filter android:name="F0394148148100" />-->
+    </aid-group>
+</host-apdu-service>
